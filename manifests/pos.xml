@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>5.1.0</version>
-    <url>https://github.com/urick/restobar-release/releases/download/pos-v5.1.0/pos-update.zip</url>
-    <changelog>https://github.com/urick/restobar-release/releases/tag/pos-v5.1.0</changelog>
+    <version>5.1.1</version>
+    <url>https://github.com/urick/restobar-release/releases/download/pos-v5.1.1/pos-update.zip</url>
+    <changelog>https://github.com/urick/restobar-release/releases/tag/pos-v5.1.1</changelog>
     <mandatory mode="0">false</mandatory>
 </item>
