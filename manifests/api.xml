@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>5.1.0</version>
+    <url>https://github.com/urick/restobar-release/releases/download/api-v5.1.0/api-update.zip</url>
+    <changelog>https://github.com/urick/restobar-release/releases/tag/api-v5.1.0</changelog>
+    <!--
+      mode="2" = AutoUpdater.NET Mode.ForcedDownload — no AutoUpdater dialog, silent
+      download + auto-apply. MultiTrackUpdater on the POS client already shows a single
+      confirmation dialog with all pending tracks before invoking AutoUpdater, so we
+      don't want a second prompt with the broken IE-rendered release notes.
+    -->
+    <mandatory mode="2">true</mandatory>
+</item>
