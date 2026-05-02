@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>5.1.9</version>
-    <url>https://github.com/urick/restobar-release/releases/download/pos-v5.1.9/pos-update.zip</url>
-    <changelog>https://github.com/urick/restobar-release/releases/tag/pos-v5.1.9</changelog>
+    <version>5.2.0</version>
+    <url>https://github.com/urick/restobar-release/releases/download/pos-v5.2.0/pos-update.zip</url>
+    <changelog>https://github.com/urick/restobar-release/releases/tag/pos-v5.2.0</changelog>
     <!--
       mode="2" = AutoUpdater.NET Mode.ForcedDownload — no AutoUpdater dialog, silent
       download + auto-apply. MultiTrackUpdater on the POS client already shows a single
